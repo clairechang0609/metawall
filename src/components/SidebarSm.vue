@@ -48,6 +48,7 @@ export default {
 <style lang="scss" scoped>
 	.sidebar-sm-card {
 		position: fixed;
+		z-index: 2000;
 		bottom: 1rem;
 		left: 1rem;
 		right: 1rem;
