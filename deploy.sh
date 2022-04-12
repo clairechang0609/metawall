@@ -11,7 +11,7 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 git@github.com:clairechang0609/metawall.git 分支為 gh-pages
-git push -f git@github.com:clairechang0609/metawall.git main:gh-pages
+git push -f git@github.com:clairechang0609/metawall.git master:gh-pages
 
 cd -
 
